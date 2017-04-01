@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DoorController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\DoorController.cs" Line="37" Column="33" />
+      <File FileName="Assets\Scripts\BucketCollision.cs" Line="15" Column="28" />
+      <File FileName="Assets\Scripts\ETFScript.cs" Line="12" Column="55" />
+      <File FileName="Assets\Scripts\IndicesScript.cs" Line="9" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
